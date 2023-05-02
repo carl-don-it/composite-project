@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.concurrent.ConcurrentMap</OriginalElement>
+  <nodes>
+    <node x="375.5" y="86.0">java.util.AbstractMap</node>
+    <node x="49.39285714285717" y="261.0">java.util.concurrent.ConcurrentNavigableMap</node>
+    <node x="218.5" y="0.0">java.util.Map</node>
+    <node x="0.0" y="175.0">java.util.NavigableMap</node>
+    <node x="11.5" y="87.5">java.util.SortedMap</node>
+    <node x="177.5" y="87.5">java.util.concurrent.ConcurrentMap</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.NavigableMap" target="java.util.SortedMap">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.ConcurrentMap" target="java.util.Map">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.AbstractMap" target="java.util.Map">
+      <point x="0.0" y="-19.5" />
+      <point x="457.0" y="61.0" />
+      <point x="298.5" y="61.0" />
+      <point x="32.0" y="18.0" />
+    </edge>
+    <edge source="java.util.SortedMap" target="java.util.Map">
+      <point x="0.0" y="-18.0" />
+      <point x="84.5" y="61.0" />
+      <point x="234.5" y="61.0" />
+      <point x="-32.0" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.ConcurrentNavigableMap" target="java.util.NavigableMap">
+      <point x="-62.75" y="-18.0" />
+      <point x="112.14285714285717" y="236.0" />
+      <point x="84.5" y="236.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.ConcurrentNavigableMap" target="java.util.concurrent.ConcurrentMap">
+      <point x="62.75" y="-18.0" />
+      <point x="237.64285714285717" y="236.0" />
+      <point x="266.5" y="236.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="89.0" y="128.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

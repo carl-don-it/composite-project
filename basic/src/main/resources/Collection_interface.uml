@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.NavigableSet</OriginalElement>
+  <nodes>
+    <node x="406.75" y="258.0">java.util.SortedSet</node>
+    <node x="12.25" y="344.0">java.util.concurrent.BlockingDeque</node>
+    <node x="406.75" y="86.0">java.util.Collection</node>
+    <node x="431.75" y="172.0">java.util.Set</node>
+    <node x="160.5" y="258.0">java.util.concurrent.BlockingQueue</node>
+    <node x="395.25" y="344.0">java.util.NavigableSet</node>
+    <node x="0.0" y="258.0">java.util.Deque</node>
+    <node x="205.25" y="344.0">java.util.concurrent.TransferQueue</node>
+    <node x="415.75" y="0.0">java.lang.Iterable</node>
+    <node x="538.75" y="172.0">java.util.List</node>
+    <node x="121.61363636363637" y="172.0">java.util.Queue</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.concurrent.TransferQueue" target="java.util.concurrent.BlockingQueue">
+      <point x="0.0" y="-18.0" />
+      <point x="43.25" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.BlockingDeque" target="java.util.Deque">
+      <point x="-43.25" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.NavigableSet" target="java.util.SortedSet">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.SortedSet" target="java.util.Set">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.Queue" target="java.util.Collection">
+      <point x="0.0" y="-18.0" />
+      <point x="177.11363636363637" y="147.0" />
+      <point x="429.58333333333337" y="147.0" />
+      <point x="-45.66666666666666" y="18.0" />
+    </edge>
+    <edge source="java.util.Set" target="java.util.Collection">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.List" target="java.util.Collection">
+      <point x="0.0" y="-18.0" />
+      <point x="582.75" y="147.0" />
+      <point x="520.9166666666666" y="147.0" />
+      <point x="45.66666666666663" y="18.0" />
+    </edge>
+    <edge source="java.util.Collection" target="java.lang.Iterable">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.util.Deque" target="java.util.Queue">
+      <point x="-5.6843418860808015E-14" y="-18.0" />
+      <point x="55.49999999999994" y="233.0" />
+      <point x="149.36363636363637" y="233.0" />
+      <point x="-27.75" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.BlockingDeque" target="java.util.concurrent.BlockingQueue">
+      <point x="43.25" y="-18.0" />
+      <point x="142.0" y="319.0" />
+      <point x="203.75" y="319.0" />
+      <point x="-43.25" y="18.0" />
+    </edge>
+    <edge source="java.util.concurrent.BlockingQueue" target="java.util.Queue">
+      <point x="0.0" y="-18.0" />
+      <point x="247.0" y="233.0" />
+      <point x="204.86363636363637" y="233.0" />
+      <point x="27.75" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="313.5" y="190.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

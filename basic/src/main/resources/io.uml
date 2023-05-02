@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.io</OriginalElement>
+  <nodes>
+    <node x="2797.39645021645" y="116.0">java.io.RandomAccessFile</node>
+    <node x="4088.0" y="389.0">java.io.SerialCallbackContext</node>
+    <node x="3603.64645021645" y="308.0">java.io.BufferedInputStream</node>
+    <node x="5088.848484848484" y="222.0">java.io.CharArrayReader</node>
+    <node x="3362.64645021645" y="308.0">java.io.PushbackInputStream</node>
+    <node x="2357.39645021645" y="116.0">java.io.ObjectOutput</node>
+    <node x="3118.848484848484" y="222.0">java.io.ObjectInputStream</node>
+    <node x="5697.848484848484" y="222.0">java.io.FilterReader</node>
+    <node x="3064.14645021645" y="308.0">java.io.LineNumberInputStream</node>
+    <node x="866.2853391053388" y="63.55555555555554">java.io.DataOutputStream</node>
+    <node x="3748.848484848484" y="222.0">java.io.ByteArrayInputStream</node>
+    <node x="4497.848484848484" y="222.0">java.io.PipedInputStream</node>
+    <node x="2779.5" y="495.0">java.io.FilePermission</node>
+    <node x="5311.0" y="389.0">java.io.StreamTokenizer</node>
+    <node x="0.0" y="697.0">java.io.InvalidObjectException</node>
+    <node x="4354.0" y="389.0">java.io.ObjectStreamField</node>
+    <node x="1289.89645021645" y="222.0">java.io.PrintWriter</node>
+    <node x="1262.0" y="697.0">java.io.StreamCorruptedException</node>
+    <node x="3585.0" y="561.0">java.io.WinNTFileSystem</node>
+    <node x="2966.5" y="495.0">java.io.Externalizable</node>
+    <node x="3820.0" y="389.0">java.io.ObjectInputValidation</node>
+    <node x="1452.89645021645" y="222.0">java.io.FilterOutputStream</node>
+    <node x="4657.14645021645" y="308.0">java.io.LineNumberReader</node>
+    <node x="917.8964502164499" y="222.0">java.io.CharArrayWriter</node>
+    <node x="5191.14645021645" y="116.0">java.io.Reader</node>
+    <node x="1118.89645021645" y="222.0">java.io.PipedWriter</node>
+    <node x="2598.5" y="601.0">java.io.EOFException</node>
+    <node x="999.5000000000001" y="601.0">java.io.FileNotFoundException</node>
+    <node x="2566.5" y="389.0">java.io.Serializable</node>
+    <node x="3609.5" y="389.0">java.io.FileSystem</node>
+    <node x="3149.5" y="495.0">java.io.UncheckedIOException</node>
+    <node x="1843.5" y="601.0">java.io.SyncFailedException</node>
+    <node x="1573.5" y="601.0">java.io.CharConversionException</node>
+    <node x="5922.624502164503" y="308.0">java.io.PushbackReader</node>
+    <node x="766.8964502164499" y="116.0">java.io.Writer</node>
+    <node x="3152.848484848484" y="0.0">java.io.DataInput</node>
+    <node x="3144.848484848484" y="116.0">java.io.ObjectInput</node>
+    <node x="5079.0" y="389.0">java.io.ObjectInputFilter</node>
+    <node x="1253.5" y="601.0">java.io.UnsupportedEncodingException</node>
+    <node x="2075.5" y="601.0">java.io.UTFDataFormatException</node>
+    <node x="251.0" y="697.0">java.io.WriteAbortedException</node>
+    <node x="5280.64645021645" y="308.0">java.io.DataInputStream</node>
+    <node x="5520.848484848484" y="222.0">java.io.PipedReader</node>
+    <node x="5753.0" y="389.0">java.io.FilenameFilter</node>
+    <node x="2117.89645021645" y="222.0">java.io.ByteArrayOutputStream</node>
+    <node x="1919.5" y="495.0">java.io.ObjectStreamClass</node>
+    <node x="4237.848484848484" y="222.0">java.io.StringBufferInputStream</node>
+    <node x="2343.5" y="601.0">java.io.InterruptedIOException</node>
+    <node x="1440.39645021645" y="308.0">java.io.BufferedOutputStream</node>
+    <node x="508.0" y="697.0">java.io.InvalidClassException</node>
+    <node x="2274.5" y="495.0">java.io.SerializablePermission</node>
+    <node x="3538.848484848484" y="222.0">java.io.FilterInputStream</node>
+    <node x="584.0" y="778.0">java.io.Bits</node>
+    <node x="154.89645021644992" y="222.0">java.io.OutputStreamWriter</node>
+    <node x="0.0" y="116.0">java.io.Console</node>
+    <node x="2375.89645021645" y="222.0">java.io.ObjectOutputStream</node>
+    <node x="1545.0" y="697.0">java.io.NotActiveException</node>
+    <node x="728.6464502164499" y="0.0">java.io.Flushable</node>
+    <node x="5542.0" y="389.0">java.io.ExpiringCache</node>
+    <node x="1863.424502164502" y="116.0">java.io.OutputStream</node>
+    <node x="2895.14645021645" y="308.0">java.io.PrintStream</node>
+    <node x="2209.6245021645022" y="0.0">java.io.DataOutput</node>
+    <node x="553.8964502164499" y="222.0">java.io.BufferedWriter</node>
+    <node x="3992.848484848484" y="222.0">java.io.SequenceInputStream</node>
+    <node x="387.8964502164499" y="222.0">java.io.FilterWriter</node>
+    <node x="744.8964502164499" y="222.0">java.io.StringWriter</node>
+    <node x="67.39645021644992" y="308.0">java.io.FileWriter</node>
+    <node x="746.0" y="697.0">java.io.OptionalDataException</node>
+    <node x="1905.89645021645" y="222.0">java.io.FileOutputStream</node>
+    <node x="1748.5" y="495.0">java.io.IOException</node>
+    <node x="1676.89645021645" y="222.0">java.io.PipedOutputStream</node>
+    <node x="3340.848484848484" y="222.0">java.io.FileInputStream</node>
+    <node x="997.0000000000001" y="697.0">java.io.NotSerializableException</node>
+    <node x="5295.848484848484" y="222.0">java.io.InputStreamReader</node>
+    <node x="3401.5" y="495.0">java.io.File</node>
+    <node x="2139.5" y="495.0">java.io.IOError</node>
+    <node x="743.5" y="601.0">java.io.ObjectStreamException</node>
+    <node x="3097.0" y="470.0">java.io.Win32FileSystem</node>
+    <node x="414.0" y="778.0">java.io.FileFilter</node>
+    <node x="4598.0" y="389.0">java.io.DeleteOnExitHook</node>
+    <node x="4909.848484848484" y="222.0">java.io.StringReader</node>
+    <node x="4841.0" y="389.0">java.io.DefaultFileSystem</node>
+    <node x="2884.89645021645" y="0.0">java.io.Closeable</node>
+    <node x="0.0" y="778.0">java.io.FileDescriptor</node>
+    <node x="5665.624502164503" y="308.0">java.io.FileReader</node>
+    <node x="4712.848484848484" y="222.0">java.io.BufferedReader</node>
+    <node x="2518.5" y="495.0">java.io.FilePermissionCollection</node>
+    <node x="2541.39645021645" y="116.0">java.io.ObjectStreamConstants</node>
+    <node x="3742.64645021645" y="116.0">java.io.InputStream</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.io.ObjectInputStream" target="java.io.ObjectInput">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectInputStream" target="java.io.InputStream">
+      <point x="67.33333333333348" y="-18.0" />
+      <point x="3287.181818181818" y="182.0" />
+      <point x="3753.5750216450215" y="182.0" />
+      <point x="-65.57142857142844" y="18.0" />
+    </edge>
+    <edge source="java.io.LineNumberReader" target="java.io.BufferedReader">
+      <point x="0.0" y="-18.0" />
+      <point x="4759.64645021645" y="288.0" />
+      <point x="4801.348484848484" y="288.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.Console" target="java.io.Flushable">
+      <point x="0.0" y="-18.0" />
+      <point x="61.0" y="56.0" />
+      <point x="750.4797835497834" y="56.0" />
+      <point x="-43.66666666666663" y="18.0" />
+    </edge>
+    <edge source="java.io.InterruptedIOException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="2461.0" y="561.0" />
+      <point x="1871.1875" y="561.0" />
+      <point x="47.1875" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectOutputStream" target="java.io.ObjectStreamConstants">
+      <point x="72.0" y="-18.0" />
+      <point x="2555.89645021645" y="202.0" />
+      <point x="2600.39645021645" y="202.0" />
+      <point x="-59.0" y="18.0" />
+    </edge>
+    <edge source="java.io.File" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="3445.5" y="445.0" />
+      <point x="2703.4444444444443" y="445.0" />
+      <point x="64.44444444444434" y="18.0" />
+    </edge>
+    <edge source="java.io.PrintStream" target="java.io.FilterOutputStream">
+      <point x="-37.25" y="-18.0" />
+      <point x="2932.39645021645" y="288.0" />
+      <point x="1622.89645021645" y="288.0" />
+      <point x="68.0" y="18.0" />
+    </edge>
+    <edge source="java.io.RandomAccessFile" target="java.io.Closeable">
+      <point x="0.0" y="-18.0" />
+      <point x="2896.89645021645" y="96.0" />
+      <point x="2940.7297835497834" y="96.0" />
+      <point x="-11.166666666666515" y="18.0" />
+    </edge>
+    <edge source="java.io.Win32FileSystem" target="java.io.FileSystem">
+      <point x="0.0" y="-14.5" />
+      <point x="3173.5" y="445.0" />
+      <point x="3187.5" y="445.0" />
+      <point x="-29.5" y="14.5" />
+    </edge>
+    <edge source="java.io.FilterInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3633.848484848484" y="202.0" />
+      <point x="3797.289307359307" y="202.0" />
+      <point x="-21.857142857143117" y="18.0" />
+    </edge>
+    <edge source="java.io.CharArrayWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="1008.3964502164499" y="202.0" />
+      <point x="836.9678787878784" y="202.0" />
+      <point x="15.571428571428555" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectOutput" target="java.io.DataOutput">
+      <point x="0.0" y="-18.0" />
+      <point x="2439.39645021645" y="66.0" />
+      <point x="2283.6245021645022" y="66.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.NotActiveException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="1649.5" y="657.0" />
+      <point x="962.6428571428571" y="657.0" />
+      <point x="101.14285714285711" y="18.0" />
+    </edge>
+    <edge source="java.io.OutputStream" target="java.io.Closeable">
+      <point x="41.75" y="-18.0" />
+      <point x="1988.674502164502" y="86.0" />
+      <point x="2918.39645021645" y="86.0" />
+      <point x="-33.5" y="18.0" />
+    </edge>
+    <edge source="java.io.NotSerializableException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="1119.5" y="677.0" />
+      <point x="895.2142857142858" y="677.0" />
+      <point x="33.71428571428578" y="18.0" />
+    </edge>
+    <edge source="java.io.IOError" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="2197.0" y="465.0" />
+      <point x="2606.777777777778" y="465.0" />
+      <point x="-32.22222222222217" y="18.0" />
+    </edge>
+    <edge source="java.io.BufferedWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="639.3964502164499" y="202.0" />
+      <point x="805.8250216450215" y="202.0" />
+      <point x="-15.571428571428555" y="18.0" />
+    </edge>
+    <edge source="java.io.RandomAccessFile" target="java.io.DataOutput">
+      <point x="-66.33333333333348" y="-18.0" />
+      <point x="2830.5631168831164" y="56.0" />
+      <point x="2332.9578354978357" y="56.0" />
+      <point x="49.333333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.FilePermission" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="2863.0" y="475.0" />
+      <point x="2655.1111111111113" y="475.0" />
+      <point x="16.111111111111313" y="18.0" />
+    </edge>
+    <edge source="java.io.WinNTFileSystem" target="java.io.FileSystem">
+      <point x="47.5" y="-18.0" />
+      <point x="3727.5" y="536.0" />
+      <point x="3732.0" y="536.0" />
+      <point x="3732.0" y="450.0" />
+      <point x="3715.25" y="450.0" />
+      <point x="35.25" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectInputStream" target="java.io.ObjectStreamConstants">
+      <point x="-67.33333333333348" y="-18.0" />
+      <point x="3152.515151515151" y="202.0" />
+      <point x="2718.39645021645" y="202.0" />
+      <point x="59.0" y="18.0" />
+    </edge>
+    <edge source="java.io.UTFDataFormatException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="2199.5" y="571.0" />
+      <point x="1852.3125" y="571.0" />
+      <point x="28.3125" y="18.0" />
+    </edge>
+    <edge source="java.io.DataOutputStream" target="java.io.DataOutput">
+      <point x="-50.0" y="-18.0" />
+      <point x="707.3964502164499" y="278.0" />
+      <point x="144.39645021644992" y="278.0" />
+      <point x="144.39645021644992" y="66.0" />
+      <point x="2234.2911688311688" y="66.0" />
+      <point x="-49.333333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3860.848484848484" y="202.0" />
+      <point x="3819.14645021645" y="202.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.StringWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.ByteArrayOutputStream" target="java.io.OutputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="2236.89645021645" y="192.0" />
+      <point x="1980.324502164502" y="192.0" />
+      <point x="33.40000000000009" y="18.0" />
+    </edge>
+    <edge source="java.io.DataInputStream" target="java.io.DataInput">
+      <point x="46.5" y="-18.0" />
+      <point x="5420.14645021645" y="288.0" />
+      <point x="5860.348484848484" y="288.0" />
+      <point x="5860.348484848484" y="56.0" />
+      <point x="3264.515151515151" y="56.0" />
+      <point x="44.666666666666515" y="18.0" />
+    </edge>
+    <edge source="java.io.FileWriter" target="java.io.OutputStreamWriter">
+      <point x="0.0" y="-18.0" />
+      <point x="134.39645021644992" y="288.0" />
+      <point x="261.3964502164499" y="288.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.PrintStream" target="java.io.Closeable">
+      <point x="37.25" y="-18.0" />
+      <point x="3006.89645021645" y="86.0" />
+      <point x="2963.0631168831164" y="86.0" />
+      <point x="11.166666666666515" y="18.0" />
+    </edge>
+    <edge source="java.io.PipedWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="1194.39645021645" y="192.0" />
+      <point x="852.5393073593068" y="192.0" />
+      <point x="31.14285714285711" y="18.0" />
+    </edge>
+    <edge source="java.io.Externalizable" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="3048.0" y="465.0" />
+      <point x="2671.222222222222" y="465.0" />
+      <point x="32.22222222222217" y="18.0" />
+    </edge>
+    <edge source="java.io.BufferedReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="4801.348484848484" y="182.0" />
+      <point x="5200.729783549783" y="182.0" />
+      <point x="-47.91666666666697" y="18.0" />
+    </edge>
+    <edge source="java.io.InvalidObjectException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="115.5" y="657.0" />
+      <point x="760.3571428571429" y="657.0" />
+      <point x="-101.14285714285711" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectStreamException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="861.5" y="551.0" />
+      <point x="1757.9375" y="551.0" />
+      <point x="-66.0625" y="18.0" />
+    </edge>
+    <edge source="java.io.UnsupportedEncodingException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="1403.5" y="571.0" />
+      <point x="1795.6875" y="571.0" />
+      <point x="-28.3125" y="18.0" />
+    </edge>
+    <edge source="java.io.EOFException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="2680.0" y="551.0" />
+      <point x="1890.0625" y="551.0" />
+      <point x="66.0625" y="18.0" />
+    </edge>
+    <edge source="java.io.FileOutputStream" target="java.io.OutputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="2001.89645021645" y="202.0" />
+      <point x="1946.924502164502" y="202.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.CharConversionException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="1698.5" y="581.0" />
+      <point x="1814.5625" y="581.0" />
+      <point x="-9.4375" y="18.0" />
+    </edge>
+    <edge source="java.io.DataOutputStream" target="java.io.FilterOutputStream">
+      <point x="50.0" y="-18.0" />
+      <point x="807.3964502164499" y="288.0" />
+      <point x="1486.89645021645" y="288.0" />
+      <point x="-68.0" y="18.0" />
+    </edge>
+    <edge source="java.io.FileNotFoundException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="1116.5" y="561.0" />
+      <point x="1776.8125" y="561.0" />
+      <point x="-47.1875" y="18.0" />
+    </edge>
+    <edge source="java.io.FilterOutputStream" target="java.io.OutputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="1554.89645021645" y="192.0" />
+      <point x="1880.124502164502" y="192.0" />
+      <point x="-66.79999999999995" y="18.0" />
+    </edge>
+    <edge source="java.io.Writer" target="java.io.Flushable">
+      <point x="-27.25" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.FilterWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="460.8964502164499" y="192.0" />
+      <point x="790.253593073593" y="192.0" />
+      <point x="-31.14285714285711" y="18.0" />
+    </edge>
+    <edge source="java.io.FileReader" target="java.io.InputStreamReader">
+      <point x="0.0" y="-18.0" />
+      <point x="5735.624502164503" y="278.0" />
+      <point x="5398.348484848484" y="278.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.OutputStream" target="java.io.Flushable">
+      <point x="-41.75" y="-18.0" />
+      <point x="1905.174502164502" y="56.0" />
+      <point x="837.8131168831164" y="56.0" />
+      <point x="43.66666666666663" y="18.0" />
+    </edge>
+    <edge source="java.io.StringBufferInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="4357.848484848484" y="182.0" />
+      <point x="3862.8607359307352" y="182.0" />
+      <point x="43.714285714285325" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectStreamClass" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="2019.5" y="455.0" />
+      <point x="2590.6666666666665" y="455.0" />
+      <point x="-48.333333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.OptionalDataException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.FilterReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="5773.848484848484" y="182.0" />
+      <point x="5296.563116883117" y="182.0" />
+      <point x="47.91666666666697" y="18.0" />
+    </edge>
+    <edge source="java.io.PipedReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="5599.348484848484" y="192.0" />
+      <point x="5277.39645021645" y="192.0" />
+      <point x="28.75" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectOutputStream" target="java.io.OutputStream">
+      <point x="-72.0" y="-18.0" />
+      <point x="2411.89645021645" y="182.0" />
+      <point x="2013.724502164502" y="182.0" />
+      <point x="66.79999999999995" y="18.0" />
+    </edge>
+    <edge source="java.io.SequenceInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="4105.348484848484" y="192.0" />
+      <point x="3841.003593073593" y="192.0" />
+      <point x="21.857142857143117" y="18.0" />
+    </edge>
+    <edge source="java.io.WriteAbortedException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="369.5" y="667.0" />
+      <point x="794.0714285714284" y="667.0" />
+      <point x="-67.42857142857144" y="18.0" />
+    </edge>
+    <edge source="java.io.UncheckedIOException" target="java.io.Serializable">
+      <point x="-2.2737367544323206E-13" y="-18.0" />
+      <point x="3265.5" y="455.0" />
+      <point x="2687.3333333333335" y="455.0" />
+      <point x="48.333333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.PrintWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="1361.39645021645" y="182.0" />
+      <point x="868.1107359307357" y="182.0" />
+      <point x="46.71428571428578" y="18.0" />
+    </edge>
+    <edge source="java.io.StreamCorruptedException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="1393.5" y="667.0" />
+      <point x="928.9285714285714" y="667.0" />
+      <point x="67.42857142857144" y="18.0" />
+    </edge>
+    <edge source="java.io.SyncFailedException" target="java.io.IOException">
+      <point x="0.0" y="-18.0" />
+      <point x="1949.5" y="581.0" />
+      <point x="1833.4375" y="581.0" />
+      <point x="9.4375" y="18.0" />
+    </edge>
+    <edge source="java.io.PipedInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="4595.348484848484" y="172.0" />
+      <point x="3884.7178787878784" y="172.0" />
+      <point x="65.57142857142844" y="18.0" />
+    </edge>
+    <edge source="java.io.FileInputStream" target="java.io.InputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3429.848484848484" y="192.0" />
+      <point x="3775.4321645021646" y="192.0" />
+      <point x="-43.714285714285325" y="18.0" />
+    </edge>
+    <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3711.14645021645" y="288.0" />
+      <point x="3657.598484848484" y="288.0" />
+      <point x="23.75" y="18.0" />
+    </edge>
+    <edge source="java.io.StringReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="4989.348484848484" y="192.0" />
+      <point x="5219.89645021645" y="192.0" />
+      <point x="-28.75" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectInput" target="java.io.DataInput">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.WinNTFileSystem" target="java.io.Win32FileSystem">
+      <point x="-38.25" y="-14.5" />
+      <point x="3178.75" y="524.0" />
+      <point x="3173.5" y="524.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.io.Reader" target="java.io.Closeable">
+      <point x="0.0" y="-18.0" />
+      <point x="5248.64645021645" y="66.0" />
+      <point x="3007.7297835497834" y="66.0" />
+      <point x="55.833333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.PushbackReader" target="java.io.FilterReader">
+      <point x="0.0" y="-18.0" />
+      <point x="6014.124502164503" y="278.0" />
+      <point x="5773.848484848484" y="278.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.InputStream" target="java.io.Closeable">
+      <point x="0.0" y="-18.0" />
+      <point x="3819.14645021645" y="76.0" />
+      <point x="2985.39645021645" y="76.0" />
+      <point x="33.5" y="18.0" />
+    </edge>
+    <edge source="java.io.PushbackInputStream" target="java.io.FilterInputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3473.14645021645" y="288.0" />
+      <point x="3610.098484848484" y="288.0" />
+      <point x="-23.75" y="18.0" />
+    </edge>
+    <edge source="java.io.OutputStreamWriter" target="java.io.Writer">
+      <point x="0.0" y="-18.0" />
+      <point x="261.3964502164499" y="182.0" />
+      <point x="774.6821645021641" y="182.0" />
+      <point x="-46.714285714285666" y="18.0" />
+    </edge>
+    <edge source="java.io.IOException" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="1824.0" y="445.0" />
+      <point x="2574.5555555555557" y="445.0" />
+      <point x="-64.44444444444434" y="18.0" />
+    </edge>
+    <edge source="java.io.SerializablePermission" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="2386.5" y="475.0" />
+      <point x="2622.8888888888887" y="475.0" />
+      <point x="-16.111111111111313" y="18.0" />
+    </edge>
+    <edge source="java.io.DataInputStream" target="java.io.FilterInputStream">
+      <point x="-46.5" y="-18.0" />
+      <point x="5327.14645021645" y="278.0" />
+      <point x="3705.098484848484" y="278.0" />
+      <point x="71.25" y="18.0" />
+    </edge>
+    <edge source="java.io.InvalidClassException" target="java.io.ObjectStreamException">
+      <point x="0.0" y="-18.0" />
+      <point x="617.0" y="677.0" />
+      <point x="827.7857142857142" y="677.0" />
+      <point x="-33.714285714285666" y="18.0" />
+    </edge>
+    <edge source="java.io.Writer" target="java.io.Closeable">
+      <point x="27.25" y="-18.0" />
+      <point x="848.6464502164499" y="76.0" />
+      <point x="2896.0631168831164" y="76.0" />
+      <point x="-55.833333333333485" y="18.0" />
+    </edge>
+    <edge source="java.io.ObjectOutputStream" target="java.io.ObjectOutput">
+      <point x="0.0" y="-18.0" />
+      <point x="2483.89645021645" y="202.0" />
+      <point x="2439.39645021645" y="202.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.RandomAccessFile" target="java.io.DataInput">
+      <point x="66.33333333333348" y="-18.0" />
+      <point x="2963.2297835497834" y="96.0" />
+      <point x="3175.181818181818" y="96.0" />
+      <point x="-44.666666666666515" y="18.0" />
+    </edge>
+    <edge source="java.io.BufferedOutputStream" target="java.io.FilterOutputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.LineNumberInputStream" target="java.io.FilterInputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="3185.64645021645" y="278.0" />
+      <point x="3562.598484848484" y="278.0" />
+      <point x="-71.25" y="18.0" />
+    </edge>
+    <edge source="java.io.CharArrayReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="5182.348484848484" y="202.0" />
+      <point x="5239.063116883117" y="202.0" />
+      <point x="-9.58333333333303" y="18.0" />
+    </edge>
+    <edge source="java.io.InputStreamReader" target="java.io.Reader">
+      <point x="0.0" y="-18.0" />
+      <point x="5398.348484848484" y="202.0" />
+      <point x="5258.229783549783" y="202.0" />
+      <point x="9.58333333333303" y="18.0" />
+    </edge>
+    <edge source="java.io.FilePermissionCollection" target="java.io.Serializable">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="java.io.PipedOutputStream" target="java.io.OutputStream">
+      <point x="0.0" y="-18.0" />
+      <point x="1781.39645021645" y="202.0" />
+      <point x="1913.5245021645019" y="202.0" />
+      <point x="-33.40000000000009" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.0788306782722943" x="3034.5" y="403.5" />
+  <SelectedNodes>
+    <node>java.io.DataOutputStream</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
