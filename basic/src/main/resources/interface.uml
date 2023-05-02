@@ -9,8 +9,8 @@
     <node x="533.78125" y="182.0">java.io.Writer</node>
     <node x="0.0" y="182.0">java.io.Reader</node>
     <node x="143.25" y="0.0">java.lang.AutoCloseable</node>
-    <node x="409.07291666666674" y="86.0">java.io.Flushable</node>
     <node x="135.00000000000003" y="182.0">java.io.InputStream</node>
+    <node x="409.07291666666674" y="86.0">java.io.Flushable</node>
   </nodes>
   <notes />
   <edges>

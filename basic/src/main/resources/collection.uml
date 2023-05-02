@@ -6,25 +6,25 @@
     <node x="214.5" y="258.0">java.util.SortedSet</node>
     <node x="665.625" y="86.0">java.util.Collection</node>
     <node x="433.50297619047603" y="258.0">java.util.AbstractSet</node>
-    <node x="1017.5529761904761" y="258.0">java.util.AbstractList</node>
     <node x="165.78214285714296" y="172.0">java.util.Set</node>
+    <node x="1017.5529761904761" y="258.0">java.util.AbstractList</node>
     <node x="203.0" y="344.0">java.util.NavigableSet</node>
     <node x="766.125" y="344.0">java.util.Deque</node>
     <node x="897.125" y="344.0">java.util.AbstractSequentialList</node>
-    <node x="674.625" y="0.0">java.lang.Iterable</node>
     <node x="1335.3041666666663" y="430.0">java.util.Stack</node>
     <node x="506.1684523809524" y="430.0">java.util.TreeSet</node>
+    <node x="674.625" y="0.0">java.lang.Iterable</node>
     <node x="1144.125" y="344.0">java.util.ArrayList</node>
-    <node x="1219.302976190476" y="258.0">java.util.RandomAccess</node>
     <node x="60.0" y="344.0">java.util.HashSet</node>
+    <node x="1219.302976190476" y="258.0">java.util.RandomAccess</node>
     <node x="1251.8363095238094" y="172.0">java.util.List</node>
     <node x="563.2208333333332" y="172.0">java.util.AbstractCollection</node>
     <node x="1302.1363095238094" y="344.0">java.util.Vector</node>
     <node x="782.2208333333331" y="172.0">java.util.Queue</node>
-    <node x="923.5142857142855" y="430.0">java.util.LinkedList</node>
     <node x="646.1684523809524" y="430.0">java.util.ArrayDeque</node>
-    <node x="383.0" y="344.0">java.util.EnumSet</node>
+    <node x="923.5142857142855" y="430.0">java.util.LinkedList</node>
     <node x="0.0" y="430.0">java.util.LinkedHashSet</node>
+    <node x="383.0" y="344.0">java.util.EnumSet</node>
     <node x="330.78511904761893" y="430.0">java.util.concurrent.ConcurrentSkipListMap.KeySet</node>
   </nodes>
   <notes />
